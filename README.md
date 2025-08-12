@@ -1,10 +1,7 @@
-# Iris_Flower_Classification
-https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png
 # Iris Flower Classification
+<img width="1024" height="367" alt="iris" src="https://github.com/user-attachments/assets/680d9c37-a587-4a43-83ab-f5d23902c50d" />
 
 (https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
-
-<font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
 
 ---
 
